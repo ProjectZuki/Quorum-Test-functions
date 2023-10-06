@@ -1,3 +1,5 @@
+# .gitignore file to ignore specific files from being added to the repository
+
 quorum/wordprob/Build/
 quorum/wordprob/Project/
 quorum/wordprob/Run/
