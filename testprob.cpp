@@ -4,7 +4,6 @@
 #include <iostream>
 #include <fstream>
 #include <iomanip>
-#include <string>
 #include <map>
 #include <vector>
 
@@ -13,6 +12,7 @@ using namespace std;
 int main () {
     // file variables
     ifstream inFile;
+    // hard code input file for testing if necessary
     string filename = "input0.txt";
 
     // loop until file is opened
