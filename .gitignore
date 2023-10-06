@@ -1,5 +1,5 @@
-wordprob/Build
-wordprob/Project
-wordprob/Run
+quorum/wordprob/Build/
+quorum/wordprob/Project/
+quorum/wordprob/Run/
 
 *.cpp
